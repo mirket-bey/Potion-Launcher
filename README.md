@@ -1,7 +1,6 @@
 # Potion-Launcher
 
-Potion Launcher 
-
+Potion Launcher Titanyum PVP sunucuları için üretilmiş özel bir launcherdır.
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more details, see the [LICENSE](LICENSE) file.
